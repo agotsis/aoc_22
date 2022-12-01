@@ -3,7 +3,7 @@ use array2d::Array2D;
 use itertools::Itertools;
 use std::env;
 
-const DAY: u8 = 1;
+const DAY: u8 = 2;
 
 // struct S {
 //     x: i32,
